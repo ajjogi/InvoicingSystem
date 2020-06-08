@@ -1,6 +1,5 @@
 # InvoicingSystem
-InvoicingSystem
-URL endpoints:
+InvoicingSystem URL endpoints:
 1) POST request to add the invoice: 
           URL: http://localhost:8080/invoices
           Body in JSON: 
